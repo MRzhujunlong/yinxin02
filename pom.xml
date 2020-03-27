@@ -58,6 +58,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>yinxin02</finalName>
     </build>
 
 </project>
