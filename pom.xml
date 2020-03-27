@@ -9,8 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yinxinhome</groupId>
-    <artifactId>pack</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>yinxin02</artifactId>
     <packaging>war</packaging>
     <name>pack</name>
     <description>Demo project for Spring Boot</description>
