@@ -11,7 +11,7 @@
     <groupId>com.yinxinhome</groupId>
     <artifactId>yinxin02</artifactId>
     <packaging>war</packaging>
-    <name>pack</name>
+    <name>yinxin02</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -58,7 +58,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>yinxin02</finalName>
     </build>
 
 </project>
